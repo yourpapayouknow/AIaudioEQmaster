@@ -108,7 +108,7 @@ Parameters:
 - You can A/B compare outputs in DAW tools (LUFS, True Peak, spectrum, transient behavior).
 
 - `src/cpu` 更偏稳定一致。
-- `src/cpu_test` 更偏速度与实验迭代。
+- `src/cpu_test` 更偏速度与实验迭代，处理耗时约为前者的1/3。
 - 建议在 DAW 里做 A/B 对比（LUFS、True Peak、频谱、瞬态）。
 
 ## TODO
