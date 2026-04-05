@@ -1,0 +1,13 @@
+﻿numpy==2.0.2
+scipy==1.14.1
+librosa==0.10.2.post1
+soundfile==0.12.1
+pyloudnorm==0.1.1
+numba==0.60.0
+statsmodels==0.14.4
+scikit-learn==1.5.2
+joblib==1.4.2
+cryptography==44.0.0
+# Optional for CUDA path:
+# torch==2.5.1+cu121
+# torchaudio==2.5.1+cu121
